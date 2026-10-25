@@ -1,4 +1,18 @@
-Mutual Fund Insight Chatbot Using LLMs
+                                Mutual Fund Insight Chatbot Using LLMs
+
+
+<img width="854" height="479" alt="Screenshot 2026-10-25 192910" src="https://github.com/user-attachments/assets/55d1933f-2572-4f77-816e-30a5fc3ac17c" />
+
+
+
+
+[Mutual_Fund_Monthly_Report_November_2025.pdf](https://github.com/user-attachments/files/33922373/Mutual_Fund_Monthly_Report_November_2025.pdf)
+
+<img width="926" height="504" alt="Screenshot 2026-10-25 192744" src="https://github.com/user-attachments/assets/b981e30d-c9a8-4f3c-830d-2ca42d5f862b" />
+
+
+
+
 
 Project Overview :
 
